@@ -1,0 +1,3 @@
+ci_access:
+  projects:
+    - id: netcon2/edgex-data #Path_of_image&manifest_file_repo
